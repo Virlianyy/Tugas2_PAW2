@@ -1,0 +1,24 @@
+{
+  "name": "tugas2_paw2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Virlianyy/Tugas2_PAW2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Virlianyy/Tugas2_PAW2/issues"
+  },
+  "homepage": "https://github.com/Virlianyy/Tugas2_PAW2#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
